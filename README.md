@@ -1,6 +1,6 @@
 # Systematic Generalisation of abstract operators
 
-Source code of `Agent, do you see it now? systematic generalisation in deep reinforcement learning` @ `ALOE ICLR 2022` and "Systematic Generalisation of Temporal Tasks through Deep Reinforcement Learning' @ ALA AAMAS 2021.
+Source code of `Agent, do you see it now? systematic generalisation in deep reinforcement learning` @ `ALOE ICLR 2022` and 'Systematic Generalisation of Temporal Tasks through Deep Reinforcement Learning' @ 'ALA AAMAS 2021'.
 
 ## Installation instructions
 
